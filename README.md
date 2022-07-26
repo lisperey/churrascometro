@@ -1,3 +1,3 @@
 # churrascometro
 
-calcular quantidade de carne de bebida para um churrasco com base na quantidade de pessoas e quantidade de horas.
+calcular quantidade de carne e de bebida para um churrasco com base na quantidade de pessoas e quantidade de horas.
